@@ -1,0 +1,11 @@
+Assignment-Portal/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+│
+├── assets/
+│   └── logo.png
+│
+└── .github/
